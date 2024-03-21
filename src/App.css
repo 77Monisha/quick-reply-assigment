@@ -1,0 +1,29 @@
+body {
+  background-color: white;
+  color: black;
+  max-width: full;
+  margin: 0 auto;
+}
+.page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 90px;
+}
+
+.btn {
+  margin-top: 20px;
+  background-color: rgb(27, 155, 27);
+  color: white;
+  font-size: 24px;
+  font-family: sans-serif;
+  border: none;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+p {
+  text-wrap: wrap;
+  font-size: 30px;
+}
